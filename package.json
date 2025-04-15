@@ -1,1 +1,17 @@
+{
+  "name": "meu-app-sem-node",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "expo": "^48.0.0",
+    "react": "18.0.0",
+    "react-native": "0.70.0"
+  },
+  "devDependencies": {
+    "expo-cli": "^5.0.0"
+  },
+  "scripts": {
+    "start": "expo start"
+  }
+}
 
